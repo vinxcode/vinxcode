@@ -1,5 +1,5 @@
 ### Hi, I'm Kevin 🤝 Nice to meet you!
-
+<img src="https://media.licdn.com/dms/image/D4E16AQEb8bpWJD8srQ/profile-displaybackgroundimage-shrink_350_1400/0/1715029663144?e=1720656000&v=beta&t=DGN6ustociGnP2TYxIQptrCsBC38_IBmONi3DD8xdyM">
 <!--
 **vinxcode/vinxcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
