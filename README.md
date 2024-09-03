@@ -1,7 +1,7 @@
-# Hi, I'm Kevin 🤝 Nice to meet you!
+# Kevin Perdomo - Web developer
+### @vinxcode
 <img src="https://github.com/vinxcode/portfolio/blob/main/public/Github%20cover.png?raw=true">
-<!--
-**vinxcode/vinxcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
