@@ -1,5 +1,6 @@
 # 🤓 Kevin Perdomo - Web developer 💻⌨️
 Trying to build beautiful websites and webapps.
+
 ⚛️ Specialized in React Ecosystem technologies. 
 🖌️ With a graphic designer background. 
 👓 UI enthusiast.
